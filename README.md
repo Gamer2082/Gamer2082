@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 🐍 I'm love phyton
 -  ©️ I'm also love c++
+-  🎮 💻  I'm the french game création
+- I'm french....
+
 
 <!---
 Gamer2082/Gamer2082 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
