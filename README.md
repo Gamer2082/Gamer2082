@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gamer2082
 - 🐍 I'm love phyton
--  ©️ I'm also love java
--  🎮 💻  I'm the french game création
+- ☕ I'm also love java
+- 🎮 💻  I'm the french game création
 - I'm french....
 
 
