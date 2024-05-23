@@ -2,7 +2,8 @@
 - 🐍 I'm love phyton
 - ☕ I'm also love java
 - 🎮 💻  I'm the french game création
-- I'm java developer 
+- I'm developer
+- I'm Systeme and network administrator
 - I'm french....
 
 
