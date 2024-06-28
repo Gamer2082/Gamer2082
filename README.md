@@ -1,7 +1,6 @@
 # Oh oh oh
---- 
 
-Je suis un développeur java et python et web et .... je fais trop de truc
-Je suis un administrateur sys et res en formation personell
+˚ 　.　 ✦˚　　 　　.　　˚　　. ✦　　˚　.🌍　˚　　. 💫　　　.   　 ✦💥　　　˚　　　　　*　　 　 ✦　　　.　　.　　　 🌒　　 ✦
+* I'm Minecraft plugin, flutter (android), java and web developers and sys/res administrator  g.dev/gamer2082
 
 ###### Je suis je suis un geek
